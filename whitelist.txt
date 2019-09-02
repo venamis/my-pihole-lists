@@ -335,3 +335,4 @@ spcptneporep01.ad.spirentcom.com
 spccrweporep01.ad.spirentcom.com
 spirentcom.com
 nzbgeek.info
+events.gfe.nvidia.com
