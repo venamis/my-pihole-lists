@@ -5,7 +5,6 @@
 ^aff(iliat(es?|ion))?[-.]
 ^analytics?[-.]
 ^banners?[-.]
-^beacons?[0-9]*[-.]
 ^count(ers?)?[0-9]*[-.]
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
 ^pixels?[-.]
