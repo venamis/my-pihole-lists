@@ -1,15 +1,12 @@
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
-5231.xg4ken.com
 7eer.net
 ad.atdmt.com
-ad.doubleclick.net
 affiliatefuture.com
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
-alluremedia.com.au
 amazonaws.com
 android.clients.google.com
 anrdoezrs.net
@@ -73,7 +70,6 @@ dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
 dns.msftncsi.com
-doubleclick.net
 download.sonarr.tv
 dpbolvw.net
 drift.com
@@ -88,7 +84,6 @@ feeds.feedburner.com
 filament.io
 fonts.gstatic.com
 forums.sonarr.tv
-gan.doubleclick.net
 geo3.ggpht.com
 geo-prod.do.dsp.mp.microsoft.com
 giphy.com
@@ -247,7 +242,6 @@ www.bfast.com
 www.cc-dt.com
 www.cj.com
 www.dataplicity.com
-www.doubleclick.net
 www.dpbolvw.net
 www.emjcd.com
 www.evyy.net
@@ -286,7 +280,6 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 yt3.ggpht.com
-ads-serve.brave.com
 creative.ak.fbcdn.net
 fbcdn-creative-a.akamaihd.net
 scontent-lhr3-1.xx.fbcdn.net
