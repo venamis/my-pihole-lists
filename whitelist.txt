@@ -335,3 +335,4 @@ external-lhr9-1.xx.fbcdn.net
 edge-mqtt.facebook.com
 bigzipfiles.facebook.com
 tracking.costco.com
+schoolmessenger.com
