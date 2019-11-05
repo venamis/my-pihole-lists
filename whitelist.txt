@@ -337,3 +337,4 @@ bigzipfiles.facebook.com
 tracking.costco.com
 schoolmessenger.com
 events.gfe.nvidia.com
+api.nzbgeek.info

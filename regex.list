@@ -16,7 +16,7 @@
 ^.+\.(accountant|biz|bid|christmas|click|country|cricket|date|download)$
 ^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$
 ^.+\.(men|mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$
-^.+\.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$
 ^.+\.(love|luxe|realestate)$
 ^.+\.(id|cash|za|red|ltd|ae|trade|name|store)$
 ^.+\.(in|hosting|online|cc|sh|pl|network|la|bg|br|website|live)$
+^.+\.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|club|host|party)$
