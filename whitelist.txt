@@ -338,3 +338,4 @@ tracking.costco.com
 schoolmessenger.com
 api.nzbgeek.info
 gfwsl.geforce.com
+accounts.nvgs.nvidia.com
