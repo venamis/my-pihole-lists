@@ -339,3 +339,4 @@ schoolmessenger.com
 api.nzbgeek.info
 gfwsl.geforce.com
 accounts.nvgs.nvidia.com
+web-wallet-cdn.uphold.world
