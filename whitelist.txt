@@ -341,3 +341,4 @@ gfwsl.geforce.com
 accounts.nvgs.nvidia.com
 web-wallet-cdn.uphold.world
 tracking.monoprice.com
+adobe.com
