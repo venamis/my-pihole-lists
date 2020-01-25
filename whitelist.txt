@@ -343,3 +343,4 @@ web-wallet-cdn.uphold.world
 tracking.monoprice.com
 adobe.com
 mirrors.piconets.webwerks.in
+get3.adobe.com
